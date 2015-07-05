@@ -1,0 +1,9 @@
+Package: com.ruudputs.swipeaway
+Name: SwipeAway
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Swipe away the keyboard in Cydia's search screen!
+Maintainer: RuudPuts
+Author: RuudPuts
+Section: Tweaks
